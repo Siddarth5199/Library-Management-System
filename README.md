@@ -5,5 +5,4 @@ Used:
 C++
 Mysql
 Java Database Connectivity (JDBC)
-Using MySQL and JDBC
 
